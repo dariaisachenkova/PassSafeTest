@@ -2,5 +2,6 @@ public class ee {
     //kgckck
     //asdfasdva`
     //asdfasdva`
-    //dfgiiijhhh
+    //
+    //а ваи выаи
 }
